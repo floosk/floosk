@@ -14,7 +14,7 @@
   <p>
     <a href="https://floosk.dev"><b>Website ↗</b></a>
     &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="floosk.dev/contact"><b>✉ Kontakt</b></a>
+    <a href="https://floosk.dev/contact"><b>✉ Kontakt</b></a>
   </p>
 
 </div>
