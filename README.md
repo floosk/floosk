@@ -7,7 +7,7 @@
   <h3>Moin!</h3>
 
   <p width="520">
-    Ich bin Emil (floosk)! <br>
+    Ich bin Emil! <br>
     Text
   </p>
 
