@@ -4,6 +4,17 @@
     <img src="https://raw.githubusercontent.com/floosk/floosk/refs/heads/main/logo.svg" alt="floosk." width="320">
   </a>
 
+---
+
+  <h3>Hey there!</h3>
+
+  <p width="520">
+    I'm Emil! <br>
+    Text
+  </p>
+
+---
+
   <h3>Moin!</h3>
 
   <p width="520">
