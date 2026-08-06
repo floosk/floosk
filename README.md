@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://floosk.dev">
-    <img src="assets/logo-ghrm.svg" alt="floosk." width="320">
+    <img src="https://raw.githubusercontent.com/floosk/floosk/refs/heads/main/logo-ghrm.svg" alt="floosk." width="320">
   </a>
 
   <h3>Moin!</h3>
