@@ -4,6 +4,12 @@
     <img src="https://raw.githubusercontent.com/floosk/floosk/refs/heads/main/logo.svg" alt="floosk." width="320">
   </a>
 
+  <p>
+    <a href="https://floosk.dev"><b>Website ↗</b></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://floosk.dev/contact"><b>✉ Contact</b></a>
+  </p>
+
 ---
 
   <h3>Hey there!</h3>
@@ -22,14 +28,9 @@
     Text
   </p>
 
-  <p>
-    <a href="https://floosk.dev"><b>Website ↗</b></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://floosk.dev/contact"><b>✉ Kontakt</b></a>
-  </p>
-
 </div>
 
+---
 
 ### ── &nbsp; Ausgewählte Blog-Artikel:
 
