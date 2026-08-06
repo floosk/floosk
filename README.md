@@ -32,7 +32,7 @@
 
 ---
 
-### ── &nbsp; Ausgewählte Blog-Artikel:
+### ── &nbsp; Neuste Blog-Artikel:
 
 #### 01 / [Artikel 1](https://blog.floosk.dev)
 > *Beschreibung*
